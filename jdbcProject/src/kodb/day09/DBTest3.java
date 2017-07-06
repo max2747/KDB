@@ -38,7 +38,8 @@ public class DBTest3 {
 				deptlist.add(dept);
 			}
 			
-			  
+			
+			
 			DeptView.print(deptlist);
 			
 			
